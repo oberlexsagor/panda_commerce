@@ -2,6 +2,12 @@
     background-color: #FEEAE9;
     border-radius: 15px;
 }
+.panda-carousel button{
+    background-color: #FF4D94;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 35px;
+}
 .panda-card{
     border: 0px;
     padding: 20px 0;
